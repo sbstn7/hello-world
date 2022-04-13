@@ -1,6 +1,6 @@
 # hello-world
 My first repository
 
-First try...
+Esto es una prueba de conexión
 
 
